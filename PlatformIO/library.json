@@ -1,0 +1,23 @@
+{
+    "name": "CString",
+    "version": "0.1.0",
+    "description": "A class library that makes it easy to use and manipulate c strings (char arrays)",
+    "keywords": "string, cstring, char",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/vpalmerio/CString.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Vincent Palmerio"
+      }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/vpalmerio/CString.git",
+    "dependencies": {
+    },
+    "frameworks": "*",
+    "platforms": "*"
+  }
